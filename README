@@ -1,0 +1,2 @@
+Release Notes:
+- To add games, rename each game game-# from 1 to however many games you've added. Then, edit the random function in play.php to set the possible # of games.
